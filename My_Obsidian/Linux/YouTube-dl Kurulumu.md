@@ -7,6 +7,8 @@
 ```bash
 # Fedora Install : 
 sudo dnf install youtube-dl
+
+
 ```
 
 ### Windows Install
