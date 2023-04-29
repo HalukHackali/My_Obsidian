@@ -1,0 +1,152 @@
+{
+  "palette": [
+    {
+      "id": "8ae3tG6eFoNxC2l9KBJMV",
+      "name": "Orange",
+      "value": "#ff9e0b"
+    },
+    {
+      "id": "LJOnGTLf9IFMoTtukPIYN",
+      "name": "Yellow",
+      "value": "#fed709"
+    },
+    {
+      "id": "tmN305tMOtnBWsVLdbaMS",
+      "name": "Red",
+      "value": "#ff453a"
+    },
+    {
+      "id": "u9BII2jRLLlu1_5DPer_O",
+      "name": "Green",
+      "value": "#31d158"
+    },
+    {
+      "id": "af4c28WRNdw9lFXBqlFAP",
+      "name": "Mint",
+      "value": "#63e6e2"
+    },
+    {
+      "id": "FAqmA-sPRdkyox3crvBWS",
+      "name": "Teal",
+      "value": "#40c8e0"
+    },
+    {
+      "id": "pCkDABryb3Xbf3D4QD6Yr",
+      "name": "Cyan",
+      "value": "#64d1ff"
+    },
+    {
+      "id": "injP_SygcZMxyY7Nv888X",
+      "name": "Blue",
+      "value": "#0b84ff"
+    },
+    {
+      "id": "WTjqc4aaWu-Pf8hGOdKyQ",
+      "name": "Indigo",
+      "value": "#5e5ce6"
+    },
+    {
+      "id": "kVhbRg3GOxxi8wmYl1fwk",
+      "name": "Purple",
+      "value": "#bf5af2"
+    },
+    {
+      "id": "YKDvEDLt-PnJ6cTCUQjHB",
+      "name": "Pink",
+      "value": "#ff375f"
+    },
+    {
+      "id": "AFDGgR5RD9JUkcv1-myah",
+      "name": "Brown",
+      "value": "#ac8e68"
+    },
+    {
+      "id": "TPjmjK1Kf14dNNHq9PzFE",
+      "name": "Gray",
+      "value": "#8e8e93"
+    },
+    {
+      "id": "4nybKd1xDZdvCe_DCYYHr",
+      "name": "Gray (2)",
+      "value": "#636366"
+    },
+    {
+      "id": "k9HZF51eNqMkYH31FefOX",
+      "name": "Grayn(3)",
+      "value": "#48484a"
+    },
+    {
+      "id": "OB-6yqY2cN8CMkAi5Ic6A",
+      "name": "Gray (4)",
+      "value": "#3a3a3c"
+    },
+    {
+      "id": "gaZ0aem97cNfvS1XEfJns",
+      "name": "Gray (5)",
+      "value": "#2c2c2e"
+    },
+    {
+      "id": "Bsu5Jzc-Tncn8dUIWNVVp",
+      "name": "Gray (6)",
+      "value": "#1c1c1e"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Swift",
+      "color": "8ae3tG6eFoNxC2l9KBJMV"
+    },
+    {
+      "path": "Python",
+      "color": "u9BII2jRLLlu1_5DPer_O"
+    },
+    {
+      "path": "Linux",
+      "color": "LJOnGTLf9IFMoTtukPIYN"
+    },
+    {
+      "path": "Docker",
+      "color": "injP_SygcZMxyY7Nv888X"
+    },
+    {
+      "path": "Static_Files",
+      "color": "AFDGgR5RD9JUkcv1-myah"
+    },
+    {
+      "path": "Swift/SwiftUI",
+      "color": "kVhbRg3GOxxi8wmYl1fwk"
+    },
+    {
+      "path": "Swift/Terimler",
+      "color": "af4c28WRNdw9lFXBqlFAP"
+    },
+    {
+      "path": "Swift/UserInterFace",
+      "color": "WTjqc4aaWu-Pf8hGOdKyQ"
+    },
+    {
+      "path": "Swift/PDF'ler/Temel Bilgiler — Swift.pdf",
+      "color": "YKDvEDLt-PnJ6cTCUQjHB"
+    },
+    {
+      "path": "Swift/PDF'ler/Fonksiyonlar - Swift.pdf",
+      "color": "YKDvEDLt-PnJ6cTCUQjHB"
+    },
+    {
+      "path": "Linux/Fedora Wayland Nvidia.md",
+      "color": "WTjqc4aaWu-Pf8hGOdKyQ"
+    },
+    {
+      "path": "Swift/Terimler/Swift Terms.md",
+      "color": "YKDvEDLt-PnJ6cTCUQjHB"
+    },
+    {
+      "path": "Swift/PDF'ler",
+      "color": "tmN305tMOtnBWsVLdbaMS"
+    },
+    {
+      "path": "Swift/Temel Konular",
+      "color": "u9BII2jRLLlu1_5DPer_O"
+    }
+  ]
+}

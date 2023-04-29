@@ -1,0 +1,52 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "SiSwift",
+      "SiAdobeacrobatreader",
+      "SiFfmpeg",
+      "SiYoutube",
+      "SiDocker"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    }
+  },
+  "Swift": "SiSwift",
+  "Swift/SwiftUI": {
+    "iconName": "SiSwift",
+    "inheritanceIcon": "SiSwift"
+  },
+  "Swift/Terimler": {
+    "iconName": "SiSwift",
+    "inheritanceIcon": "SiSwift"
+  },
+  "Swift/UserInterFace": {
+    "iconName": "SiSwift",
+    "inheritanceIcon": "SiSwift"
+  },
+  "Static_Files": "SiSubstack",
+  "Docker": "SiDocker",
+  "Linux": {
+    "iconName": "SiLinux",
+    "inheritanceIcon": "SiLinux"
+  },
+  "Linux/Fedora Wayland Nvidia.md": "SiFedora",
+  "Python": "SiPython-white",
+  "Swift/PDF'ler": "SiAdobeacrobatreader",
+  "Swift/PDF'ler/Fonksiyonlar - Swift.pdf": "SiAdobeacrobatreader",
+  "Swift/PDF'ler/Temel Bilgiler — Swift.pdf": "SiAdobeacrobatreader",
+  "Swift/Temel Konular": "SiSwift",
+  "Linux/Video ffmpeg Çeviri.md": "SiFfmpeg",
+  "Linux/YouTube-dl Kurulumu.md": "SiYoutube",
+  "Swift/Terimler/Glossary of Common Swift Terms.md": "SiSwift"
+}

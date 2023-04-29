@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "fd34dff502172e6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ca65136e55e06f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55436ff9c427abc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Swift/Structs (Yapılar).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e979bebbefb510f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "07e6283c2971fa97",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b922a0a0303c0452",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b9c6aa4c53004aee",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "5f7983e682098f6f",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "2ca834c8f6a9d210",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "113378e5bacc8bae",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Swift/Structs (Yapılar).md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b598b7bd5949be32",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Swift/Structs (Yapılar).md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "7845c6a0343b9d48",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Swift/Structs (Yapılar).md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Hızlı geçişi aç": false,
+      "graph:Grafik görünümünü aç": false,
+      "canvas:Yeni tuval oluşturun": false,
+      "daily-notes:Bugünün Notunu Aç": false,
+      "templates:Şablon ekle": false,
+      "command-palette:Komut paletini aç": false,
+      "markdown-importer:Markdown yükleyicisini aç": false,
+      "zk-prefixer:Yeni benzersiz not oluştur": false,
+      "random-note:Rastgele not oluştur": false,
+      "audio-recorder:Kaydı başlat/durdur": false,
+      "workspaces:Çalışma alanı düzenlerini yönetme": false,
+      "publish:Değişiklikleri yayınla": false
+    }
+  },
+  "active": "55436ff9c427abc1",
+  "lastOpenFiles": [
+    "Swift/Temel Bilgiler — Swift.md",
+    "Swift/Tip Ek Açıklamaları (Annotations).md",
+    "Swift/Üçlü Koşullu Operatör.md",
+    "Swift/Özet; Karmaşık veriler.md",
+    "Swift/Terimler/@available.md",
+    "Swift/Bir koşulun doğru veya yanlış olduğu nasıl kontrol edilir.md",
+    "Swift/Terimler/Access Control.md",
+    "Swift/Terimler/@escaping.md",
+    "Swift/Terimler/@objc.md",
+    "Swift/Enum.md",
+    "Swift/Birden çok koşulu kontrol etmek için switch ifadeleri nasıl kullanılır?.md",
+    "Swift/Set.md",
+    "Swift/Birden çok koşul nasıl kontrol edilir.md",
+    "Swift/Terimler/Swift Terms.md",
+    "Swift/Terimler/@dynamicMemberLookup.md",
+    "Swift/Terimler/@objcMembers.md",
+    "Swift/Terimler/ABI.md",
+    "Swift/Terimler/@unknown.md",
+    "Swift/Terimler/@dynamicCallable.md",
+    "Swift/Terimler/@discardableResult.md",
+    "Swift/Terimler/@autoclosure.md",
+    "Linux/Install Zsh on Linux.md",
+    "Linux/Tek bir statik IP adresi ile iki farklı fiziksel sunucu.md",
+    "Linux/Linux Komutları Eğitimi.md",
+    "Linux/Linux Networking Komutları.md",
+    "Linux/Linux Dosya Transferi.md",
+    "Static_Files/Pasted image 20230416033909.png",
+    "Static_Files/Pasted image 20230416031950.png",
+    "Static_Files/Pasted image 20230416033924.png",
+    "Static_Files/Pasted image 20230416032053.png",
+    "Static_Files/Pasted image 20230416034041.png",
+    "Static_Files/Pasted image 20230416034017.png",
+    "Static_Files/Pasted image 20230416030101.png",
+    "Static_Files/Pasted image 20230416033755.png",
+    "Static_Files/Pasted image 20230416033636.png",
+    "Static_Files/7ec3323509e748c69af1f9537cb71ec0.png",
+    "Docker 🐳",
+    "Static_Files",
+    "Python 🐍",
+    "Swift 💎/Fonksiyonlar - Swift.pdf",
+    "Swift 💎/Temel Bilgiler — Swift.pdf"
+  ]
+}

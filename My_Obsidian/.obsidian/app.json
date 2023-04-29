@@ -1,0 +1,35 @@
+{
+  "spellcheck": false,
+  "showUnsupportedFiles": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "mobileToolbarCommands": [
+    "editor:toggle-keyboard",
+    "editor:move-caret-left",
+    "editor:move-caret-right",
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "highlightr-plugin:Yellow",
+    "highlightr-plugin:Red",
+    "editor:toggle-highlight",
+    "editor:toggle-code",
+    "editor:insert-link",
+    "editor:attach-file",
+    "editor:insert-tag",
+    "editor:insert-wikilink",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:toggle-checklist-status",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:undo",
+    "editor:redo",
+    "editor:configure-toolbar"
+  ]
+}

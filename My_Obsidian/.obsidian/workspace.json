@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "ae3c44ebd6b8f68c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0a7828b5cddc846",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d1e045d467e8766",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Swift/SwiftUI/05 - Devam Et .......md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a2ca9827cf943719",
+    "type": "split",
+    "children": [
+      {
+        "id": "8450ed17fb46e2fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8d630dd3871eba7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "38015925b9f40209",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#swift",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4c4dfe0359441b27",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 257.5
+  },
+  "right": {
+    "id": "e3c7e7f54971170f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b7be64fb4263456",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d723f231abb8b69c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Swift/SwiftUI/05 - Devam Et .......md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7c18c6efd700266d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Swift/SwiftUI/05 - Devam Et .......md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "57d3c669850322f4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c85d6a8ac3d5541d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Swift/SwiftUI/05 - Devam Et .......md"
+              }
+            }
+          },
+          {
+            "id": "46d67c466d08865b",
+            "type": "leaf",
+            "state": {
+              "type": "code-execute-manage-executors",
+              "state": {}
+            }
+          },
+          {
+            "id": "e3713b12b69276ef",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 256.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Hızlı geçişi aç": false,
+      "graph:Grafik görünümünü aç": false,
+      "canvas:Yeni tuval oluşturun": false,
+      "daily-notes:Bugünün Notunu Aç": false,
+      "templates:Şablon ekle": false,
+      "command-palette:Komut paletini aç": false,
+      "markdown-importer:Markdown yükleyicisini aç": false,
+      "audio-recorder:Kaydı başlat/durdur": false,
+      "random-note:Rastgele not oluştur": false,
+      "zk-prefixer:Yeni benzersiz not oluştur": false,
+      "workspaces:Çalışma alanı düzenlerini yönetme": false,
+      "publish:Değişiklikleri yayınla": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "5d1e045d467e8766",
+  "lastOpenFiles": [
+    "Swift/SwiftUI/04 - Kullanıcı arayüzü kontrollerine bağlanma durumu.md",
+    "Swift/SwiftUI/03 - Program durumu değiştiriliyor.md",
+    "Swift/SwiftUI/02 - Gezinme çubuğu ekleme.md",
+    "Swift/SwiftUI/01 - form oluşturma.md",
+    "Swift/SwiftUI/00 - Bir SwiftUI uygulamasının temel yapısını anlama.md",
+    "Swift/SwiftUI/10 -.md",
+    "Swift/SwiftUI/09 - kopyası.md",
+    "Swift/SwiftUI/09 -.md",
+    "Swift/SwiftUI/08 -.md",
+    "Swift/SwiftUI/07 -.md",
+    "Swift/SwiftUI/06 -.md",
+    "Swift/SwiftUI/05 - Devam Et .......md",
+    "Swift/Temel Konular/20 - Structs (Yapılar).md",
+    "Swift/Terimler/Glossary of Common Swift Terms.md",
+    "Swift/Temel Konular/Labels.md",
+    "Swift/Temel Konular/28 - Çokbiçimlilik ve tipleme.md",
+    "Swift/Temel Konular/Temel Swift'i bir saat içinde öğrenin.md",
+    "Swift/SwiftUI 5 Soruluk Test.md",
+    "Swift/Temel Konular/16 - Fonksiyonlar.md",
+    "Swift/Temel Konular/17 - Fonksiyonlar - Return.md",
+    "Swift/Temel Konular/00 - Temel Bilgiler — Swift.md",
+    "Linux/YouTube-dl Kurulumu.md",
+    "Linux/Video ffmpeg Çeviri.md",
+    "Static_Files/f38831d5e654493c86a811670b831dba.png",
+    "Static_Files/Pasted image 20230416030045.png",
+    "Static_Files/Icons.md",
+    "obsidian/plugins/obsidian-icon-folder/icons/simple-icons/Zyte.svg",
+    "obsidian/plugins/obsidian-icon-folder/icons/simple-icons/Zwave.svg",
+    "obsidian/plugins/obsidian-icon-folder/icons/simple-icons/Zulip.svg",
+    "obsidian/plugins/obsidian-icon-folder/icons/simple-icons/Zotero.svg",
+    "obsidian/plugins/obsidian-icon-folder/icons/simple-icons/Zorin.svg",
+    "obsidian/plugins/obsidian-icon-folder/icons/simple-icons/Zomato.svg",
+    "obsidian/plugins/obsidian-icon-folder/icons/simple-icons/Zoom.svg",
+    "obsidian/plugins/obsidian-icon-folder/icons/simple-icons/Zoiper.svg",
+    "obsidian/plugins/obsidian-icon-folder/icons/simple-icons",
+    "obsidian/plugins/table-editor-obsidian/styles.css",
+    "obsidian/plugins/table-editor-obsidian/main.js",
+    "obsidian/plugins/table-editor-obsidian/manifest.json",
+    "obsidian/plugins/table-editor-obsidian/data.json",
+    "obsidian/plugins/obsidian-file-color/styles.css",
+    "obsidian/plugins/obsidian-file-color/manifest.json",
+    "obsidian/plugins/obsidian-file-color/data.json",
+    "obsidian/plugins/obsidian-file-color/main.js",
+    "obsidian/plugins/obsidian-icon-folder/styles.css",
+    "Swift/Temel Konular/Optionals (Seçimliler).md",
+    "Swift/Temel Konular/27 - nil.md",
+    "Başlıksız.canvas"
+  ]
+}
