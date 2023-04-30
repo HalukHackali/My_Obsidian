@@ -204,3 +204,5 @@ Swift dili, `switch/case` bloklarını yukarıdan aşağıya doğru değerlend
 O yüzden, durumları nasıl sıralayacağınız konusunda dikkatli olun!
 
 **Ek bilgi:** Swift dilindeki seçimliler aslında beraberinde değerleri olan enum'lar kullanılarak oluşturulmuştur. İki durum vardır: `none` ve `some`; `some`, seçimli içesinde herhangi bir değere sahip olma durumudur.
+
+Bitti!
