@@ -46,7 +46,7 @@ enum Weekday {
 }
 ```
 
-Bu, yeni numaralandırmayı çağırır `Weekday`ve haftanın beş gününü işlemek için beş vaka sağlar.
+Bu, yeni numaralandırmayı çağırır `Weekday` ve haftanın beş gününü işlemek için beş vaka sağlar.
 
 Şimdi dizeleri kullanmak yerine numaralandırmayı kullanırdık. Bunu oyun alanınızda deneyin:
 
@@ -66,7 +66,9 @@ enum Weekday {
 }
 ```
 
-İkinci olarak, bir değişkene veya sabite bir değer atadığınızda veri türünün sabit hale geldiğini unutmayın; bir değişkeni önce bir dizgeye, ardından bir tamsayıya ayarlayamazsınız. Numaralandırmalar için bu, ilk atamadan sonra numaralandırma adını şu şekilde atlayabileceğiniz anlamına gelir:
+İkinci olarak, bir değişkene veya sabite bir değer atadığınızda veri türünün sabit hale geldiğini unutmayın; bir değişkeni önce bir dizgeye, ardından bir tamsayıya ayarlayamazsınız. 
+
+Numaralandırmalar için bu, ilk atamadan sonra numaralandırma adını şu şekilde atlayabileceğiniz anlamına gelir:
 
 ```swift
 var day = Weekday.monday
@@ -74,9 +76,9 @@ day = .tuesday
 day = .friday
 ```
 
-Swift, her zaman bir tür olması gerektiği için buna `.tuesday`atıfta bulunulması gerektiğini bilir .`Weekday.tuesday``day``Weekday`
+Swift, her zaman bir tür olması gerektiği için buna `.tuesday` atıfta bulunulması gerektiğini bilir . `Weekday.tuesday` `day` `Weekday`
 
-`Weekday.monday`Burada görünmese de, numaralandırmaların en büyük faydalarından biri, Swift'in bunları optimize edilmiş bir biçimde saklamasıdır - Swift'in bunu 0 gibi tek bir tamsayı kullanarak saklayacağını söylediğimizde, depolamak ve kontrol etmek, depolamak ve kontrol etmekten çok daha verimlidir. M, o, n, d, a, y harfleri.
+`Weekday.monday` Burada görünmese de, numaralandırmaların en büyük faydalarından biri, Swift'in bunları optimize edilmiş bir biçimde saklamasıdır - Swift'in bunu 0 gibi tek bir tamsayı kullanarak saklayacağını söylediğimizde, depolamak ve kontrol etmek, depolamak ve kontrol etmekten çok daha verimlidir. M, o, n, d, a, y harfleri.
 
 ---
 Enumerations, Swift içinde kullanılmak üzere kendi veri tipinizi oluşturmanızın bir yoludur; genellikle kısaca "enum" olarak bahsedilir ve "inam" olarak okunur. Bazı programlama dillerinde sadece basit işler için kullanılırlar, ama temelin ötesine geçmek isterseniz, Swift'in onlara verdiği büyük miktardaki gücü kullanabilirsiniz.

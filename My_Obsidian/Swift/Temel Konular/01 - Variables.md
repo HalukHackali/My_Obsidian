@@ -174,11 +174,11 @@ Dizeler Swift'te gerçekten güçlüdür ve yapabileceklerinin yalnızca yüzeyi
 
 ---
 
-# tam sayılar nasıl saklanır
+# Tam Sayılar Nasıl Saklanır?
 
-_3, 5, 50 veya 5 milyon gibi tam sayılarla çalışırken, Swift'in tamsayı_ dediği şeyle çalışıyorsunuz veya `Int`kısaca - "tamsayı" aslında "tam" anlamına gelen Latince bir kelimedir; meraklı.
+_3, 5, 50 veya 5 milyon gibi tam sayılarla çalışırken, Swift'in tamsayı_ dediği şeyle çalışıyorsunuz veya kısaca `Int`  - "tamsayı" aslında "tam" anlamına gelen Latince bir kelimedir.
 
-Yeni bir tamsayı oluşturmak, tıpkı bir dize oluşturmak gibi çalışır: `let`veya kullanın `var`, bir sabit veya değişken isteyip istemediğinize bağlı olarak, bir ad girin, sonra ona bir değer verin. `score`Örneğin, şöyle bir sabit oluşturabiliriz :
+Yeni bir tamsayı oluşturmak, tıpkı bir string oluşturmak gibi çalışır: `let` veya `var` kullanın, bir sabit veya değişken isteyip istemediğinize bağlı olarak, bir ad girin, sonra ona bir değer verin. Örneğin, şöyle bir sabit oluşturabiliriz : `score`
 
 ```swift
 let score = 10
@@ -192,7 +192,7 @@ Rakamları elle yazarken, neler olup bittiğini tam olarak görmek zor olabilir.
 let reallyBig = 100000000
 ```
 
-Bunu elle yazıyor olsaydık, muhtemelen “100.000.000” yazardık ve bu noktada sayının 100 milyon olduğu açıktır. `_`Swift'de buna benzer bir şey var: sayıları istediğiniz gibi ayırmak için alt çizgileri, , kullanabilirsiniz .
+Bunu elle yazıyor olsaydık, muhtemelen “100.000.000” yazardık ve bu noktada sayının 100 milyon olduğu açıktır. Swift'de buna benzer bir şey var:  `_`      Sayıları istediğiniz gibi ayırmak için alt çizgileri,    `_`     kullanabilirsiniz .
 
 Böylece önceki kodumuzu şu şekilde değiştirebiliriz:
 
@@ -206,9 +206,9 @@ Swift aslında alt çizgileri umursamıyor, bu yüzden istersen onun yerine şun
 let reallyBig = 1_00__00___00____00
 ```
 
-Sonuç aynıdır: `reallyBig`100.000.000 değerinde bir tamsayıya ayarlanır.
+Sonuç aynıdır: `reallyBig` 100.000.000 değerinde bir tamsayıya ayarlanır.
 
-Elbette, okulda öğrendiğiniz aritmetik operatör türlerini kullanarak diğer tamsayılardan da tamsayılar oluşturabilirsiniz: `+`toplama, `-`çıkarma, `*`çarpma ve `/`bölme için.
+Elbette, okulda öğrendiğiniz aritmetik operatör türlerini kullanarak diğer tamsayılardan da tamsayılar oluşturabilirsiniz: `+` toplama, `-` çıkarma, `*` çarpma ve `/` bölme için.
 
 Örneğin:
 
@@ -230,7 +230,7 @@ var counter = 10
 counter = counter + 5
 ```
 
-Yazmak yerine , söz konusu tamsayıya doğrudan bir sayı ekleyen `counter = counter + 5`steno işlecini kullanabilirsiniz :`+=`
+Yazmak yerine , söz konusu tamsayıya doğrudan bir sayı ekleyen `counter = counter + 5` steno işlecini kullanabilirsiniz :  `+=`
 
 ```swift
 counter += 5
@@ -248,7 +248,7 @@ counter /= 2
 print(counter)
 ```
 
-Tamsayılarla işimiz bitmeden önce, son bir şeyden bahsetmek istiyorum: tıpkı dizeler gibi, tamsayıların bazı kullanışlı işlevleri vardır. Örneğin, `isMultiple(of:)`başka bir tamsayının katı olup olmadığını öğrenmek için bir tamsayıyı arayabilirsiniz.
+Tamsayılarla işimiz bitmeden önce, son bir şeyden bahsetmek istiyorum: tıpkı dizeler gibi, tamsayıların bazı kullanışlı işlevleri vardır. Örneğin, `isMultiple(of:)` başka bir tamsayının katı olup olmadığını öğrenmek için bir tamsayıyı arayabilirsiniz.
 
 120'nin üçün katı olup olmadığını şu şekilde sorabiliriz:
 
@@ -265,7 +265,7 @@ print(120.isMultiple(of: 3))
 
 ---
 
-# ondalık sayılar nasıl saklanır
+# Ondalık Sayılar Nasıl Saklanır?
 
 3.1, 5.56 veya 3.141592654 gibi ondalık sayılarla çalışırken, Swift'in _kayan noktalı_ sayılar dediği şeyle çalışıyorsunuz. Adı, sayıların bilgisayarınızın şaşırtıcı derecede karmaşık bir şekilde saklanma biçiminden gelir: 123,456,789 gibi çok büyük sayıları, 0,0000000001 gibi çok küçük sayılarla aynı miktarda alanda depolamaya çalışır ve bunu yapabilmesinin tek yolu, sayının boyutuna göre ondalık noktayı hareket ettirmek.
 
@@ -359,7 +359,7 @@ let number = 120
 print(number.isMultiple(of: 3))
 ```
 
-Her ikisi `hasSuffix()`de `isMultiple(of:)`kontrollerine göre yeni bir değer döndürür: dizede sonek vardır veya yoktur ve 120, 3'ün katıdır veya değildir. Her iki yerde de her zaman basit bir doğru veya yanlış yanıtı vardır, Boolean'lar burada devreye girer - sadece onu saklarlar, başka bir şey saklamazlar.
+Her ikisi `hasSuffix()` de `isMultiple(of:)`kontrollerine göre yeni bir değer döndürür: dizede sonek vardır veya yoktur ve 120, 3'ün katıdır veya değildir. Her iki yerde de her zaman basit bir doğru veya yanlış yanıtı vardır, Boolean'lar burada devreye girer - sadece onu saklarlar, başka bir şey saklamazlar.
 
 Bir Boole değeri oluşturmak, diğer veri türlerini oluşturmak gibidir, yalnızca true veya false şeklinde bir başlangıç ​​değeri atamanız gerekir, bunun gibi:
 
@@ -490,7 +490,7 @@ print("5 x 5 is \(5 * 5)")
 
 İster haftanın günleri, ister bir sınıftaki öğrencilerin listesi, bir şehrin son 100 yıldaki nüfusu veya sayısız başka örnek olsun, çok sayıda verinin tek bir yerde olmasını istemek son derece yaygındır.
 
-Swift'te bu gruplamayı bir _dizi_ kullanarak yaparız . `String`Diziler , `Int`, ve gibi kendi veri türleridir `Double`, ancak yalnızca bir dizi tutmak yerine sıfır dizi, bir dizi, iki dizi, üç, elli, elli milyon veya hatta daha fazla dizi tutabilirler - otomatik olarak şu şekilde tutmaya uyum sağlayabilirler: istediğiniz kadar çok ve verileri her zaman eklediğiniz sırada tutun.
+Swift'te bu gruplamayı bir _dizi_ kullanarak yaparız . `String` Diziler , `Int`, ve gibi kendi veri türleridir `Double`, ancak yalnızca bir dizi tutmak yerine sıfır dizi, bir dizi, iki dizi, üç, elli, elli milyon veya hatta daha fazla dizi tutabilirler - otomatik olarak şu şekilde tutmaya uyum sağlayabilirler: istediğiniz kadar çok ve verileri her zaman eklediğiniz sırada tutun.
 
 Dizi oluşturmaya ilişkin bazı basit örneklerle başlayalım:
 
@@ -639,6 +639,7 @@ print(reversedPresidents)
 **İpucu:** Bir diziyi tersine çevirdiğinizde, Swift çok zekidir - aslında tüm öğeleri yeniden düzenleme işini yapmaz, bunun yerine öğelerin tersine çevrilmesini istediğinizi kendi kendine hatırlar. Bu nedenle, çıktısını aldığınızda `reversedPresidents`, bunun artık basit bir dizi olmadığını görünce şaşırmayın!
 
 Diziler Swift'te son derece yaygındır ve ilerledikçe onlar hakkında daha fazla şey öğrenmek için birçok fırsatınız olacak. Dizeler için daha da iyisi `sorted()`, `reversed()`, ve diğer pek çok dizi işlevi de mevcuttur - `sorted()`orayı kullanmak dizenin harflerini alfabetik sıraya koyar ve "swift" gibi bir şeyi "fistw"ye dönüştürür.
+
 ---
 
 # Özet: Basit veriler
